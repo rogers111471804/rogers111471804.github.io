@@ -51,24 +51,32 @@ ul{
 	padding-left: 8px;
 }
 h3{
-	color: Black; font font-size: 40;
-	font-family: 'Passion One'
-	margin border: 8px;
+	color: #FFBC00; font font-size: 40px;
+	font-family: 'Passion One'; color: #FFBC00; font-weight: bold;
+	margin border: 0px;
 
 }
-h4{
+h3{
 	background-color: black;
-
+}
+p{
+	font-weight: bold; font-family: arial;
 }
 
-#Body{
+div{
+	background-color: #FFBC00;
+
+}
+body {
 	background-color: black;
-	background-image: ('wood jpg');
+	background-image: url('wood.jpg');
 }
+
+
 
 a{
 	color: white
-	font-weight bold;
+	font-weight: bold;
 	font-size: 24px;
 }
 
